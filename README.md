@@ -9,4 +9,4 @@
 
 ## Test repo for the Version Control Essentials course.
 
-<!-- Hello how are you? -->
+Hello how are you?
